@@ -1,0 +1,39 @@
+{
+ "id": "/",
+ "name": "AutiScan-IA · Tamizaje de autismo",
+ "short_name": "AutiScan-IA",
+ "description": "Tamizaje de autismo para profesionales: cuatro herramientas por edad, cuestionarios por enlace para la familia y el colegio, e informe en PDF.",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#F4F8FB",
+ "theme_color": "#0B4F8A",
+ "lang": "es-CO",
+ "dir": "ltr",
+ "categories": [
+  "medical",
+  "health",
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icono-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icono-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icono-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "screenshots": []
+}
